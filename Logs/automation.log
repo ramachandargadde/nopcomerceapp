@@ -1,0 +1,83 @@
+06/02/2021 06:20:14 PM: INFO: *********Test_001_Login***********
+06/02/2021 06:20:14 PM: INFO: ************Verify Hompage Title*******
+06/02/2021 06:20:21 PM: INFO: ************Test Case Passed*******
+06/02/2021 06:20:49 PM: INFO: ************Test Case Passed*******
+06/02/2021 06:22:32 PM: INFO: *********Test_001_Login***********
+06/02/2021 06:22:32 PM: INFO: ************Verify Hompage Title*******
+06/02/2021 06:22:41 PM: INFO: ************Test Case Passed*******
+06/02/2021 06:23:05 PM: INFO: ************Test Case Passed*******
+06/02/2021 06:24:00 PM: INFO: *********Test_001_Login***********
+06/02/2021 06:24:00 PM: INFO: ************Verify Hompage Title*******
+06/02/2021 06:42:06 PM: INFO: *********Test_001_Login***********
+06/02/2021 06:42:07 PM: INFO: ************Verify Hompage Title*******
+06/02/2021 06:46:43 PM: INFO: *************** Test_001_Login *****************
+06/02/2021 06:46:43 PM: INFO: ****Started Home page title test ****
+06/02/2021 06:46:43 PM: INFO: ****Opening URL****
+06/02/2021 06:46:48 PM: INFO: **** Home page title test passed ****
+06/02/2021 06:46:50 PM: INFO: ****Started Login Test****
+06/02/2021 06:46:59 PM: INFO: ****Login test passed ****
+06/02/2021 06:59:10 PM: INFO: *************** Test_001_Login *****************
+06/02/2021 06:59:10 PM: INFO: ****Started Home page title test ****
+06/02/2021 06:59:10 PM: INFO: ****Opening URL****
+06/02/2021 06:59:13 PM: INFO: **** Home page title test passed ****
+06/02/2021 06:59:19 PM: INFO: ****Started Login Test****
+06/02/2021 06:59:31 PM: INFO: ****Login test passed ****
+06/02/2021 08:06:41 PM: INFO: ****Started Login Test****
+06/02/2021 08:06:41 PM: INFO: *************** Test_001_Login *****************
+06/02/2021 08:06:41 PM: INFO: ****Started Home page title test ****
+06/02/2021 08:06:41 PM: INFO: ****Opening URL****
+06/02/2021 08:06:46 PM: INFO: **** Home page title test passed ****
+06/02/2021 08:07:21 PM: INFO: *************** Test_001_Login *****************
+06/02/2021 08:07:21 PM: INFO: ****Started Home page title test ****
+06/02/2021 08:07:21 PM: INFO: ****Opening URL****
+06/02/2021 08:07:21 PM: INFO: ****Started Login Test****
+06/02/2021 08:07:24 PM: INFO: **** Home page title test passed ****
+06/02/2021 08:07:29 PM: INFO: ****Login test passed ****
+06/02/2021 08:24:34 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+06/02/2021 08:24:34 PM: INFO: ******* Starting Login DDT Test **********
+06/02/2021 08:24:53 PM: INFO: **** passed ****
+06/03/2021 12:29:12 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:29:29 PM: INFO: ************* Login succesful **********
+06/03/2021 12:29:29 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 12:36:26 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:36:37 PM: INFO: ************* Login succesful **********
+06/03/2021 12:36:37 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 12:41:21 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:41:31 PM: INFO: ************* Login succesful **********
+06/03/2021 12:41:31 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 12:43:00 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:43:09 PM: INFO: ************* Login succesful **********
+06/03/2021 12:43:09 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 12:45:54 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:46:04 PM: INFO: ************* Login succesful **********
+06/03/2021 12:46:04 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 12:57:49 PM: INFO: *************** Test_001_Login *****************
+06/03/2021 12:57:49 PM: INFO: ****Started Home page title test ****
+06/03/2021 12:57:49 PM: INFO: ****Opening URL****
+06/03/2021 12:57:55 PM: INFO: **** Home page title test passed ****
+06/03/2021 12:57:57 PM: INFO: ****Started Login Test****
+06/03/2021 12:58:07 PM: INFO: ****Login test passed ****
+06/03/2021 12:58:18 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:58:29 PM: INFO: ************* Login succesful **********
+06/03/2021 12:58:29 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 12:59:41 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 12:59:54 PM: INFO: ************* Login succesful **********
+06/03/2021 12:59:54 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 01:01:49 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 01:02:01 PM: INFO: ************* Login succesful **********
+06/03/2021 01:02:01 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 01:45:53 PM: INFO: ************* Test_003_AddCustomer **********
+06/03/2021 01:46:03 PM: INFO: ************* Login succesful **********
+06/03/2021 01:46:03 PM: INFO: ******* Starting Add Customer Test **********
+06/03/2021 01:59:59 PM: INFO: ****Started Login Test****
+06/03/2021 02:00:17 PM: INFO: ****Login test passed ****
+06/03/2021 02:00:55 PM: INFO: *************** Test_001_Login *****************
+06/03/2021 02:00:55 PM: INFO: ****Started Home page title test ****
+06/03/2021 02:00:55 PM: INFO: ****Opening URL****
+06/03/2021 02:01:01 PM: INFO: **** Home page title test passed ****
+06/03/2021 02:01:06 PM: INFO: ****Started Login Test****
+06/03/2021 02:01:16 PM: INFO: ****Login test passed ****
+06/03/2021 02:01:18 PM: INFO: ******* Starting Test_002_DDT_Login Test **********
+06/03/2021 02:01:18 PM: INFO: ******* Starting Login DDT Test **********
+06/03/2021 02:01:29 PM: INFO: **** passed ****
+06/03/2021 03:12:21 PM: INFO: ****Started Login Test****

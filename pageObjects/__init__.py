@@ -1,0 +1,2 @@
+from pageObjects import loginpage
+from pageObjects import AddcustomerPage
